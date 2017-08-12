@@ -1,0 +1,12 @@
+*************** FACE RECOGNIZATION *****************
+for face detection go to guidance section.
+follow each and every rules.
+
+
+
+
+************** object detection *****************
+book.jpg is given.
+In your case you can replace object(book).
+To do it -> Provide image of front or back section of book in program.
+Then put real book in front of camera, application will detect it.  
