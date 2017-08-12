@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="bgscreen1">#b12515 </color>
+    <color name="bgscreen2">#FFBB00 </color>
+    <color name="bgscreen3">#74a443 </color>
+
+    <color name="dotactive">#000000 </color>
+    <color name="dotinactive">#cccccc </color>
+
+    <color name="black">#000</color>
+    <color name="appcl">#c5160bde</color>
+    <color name="whitee">#d0ffffff</color>
+    <color name="redd">#b931018b</color>
+    <color name="reddd">#7ac60014</color>
+    <color name="white">#FFF</color>
+    <color name="orange">#f44336</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="cl">#e2062cab</color>
+
+    <color name="colorBlack">#060606</color>
+    <color name="Pink">#cb17b3</color>
+    <color name="bb">#7d080808</color>
+
+
+</resources>

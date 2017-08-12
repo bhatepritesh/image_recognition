@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="260dp"
+            android:src = "@drawable/q1"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you don't want to waste your time in queue"
+            android:textAlignment="center"
+            android:textColor="@color/orange"
+            android:textSize="@dimen/slide_title"
+            android:textStyle="bold"
+            />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="40dp"
+            android:paddingLeft="@dimen/desc_padding"
+            android:paddingRight="@dimen/desc_padding"
+            android:text=" Then simply follow  2 steps"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/link"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
